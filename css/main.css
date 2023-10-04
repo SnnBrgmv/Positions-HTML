@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&family=Roboto:ital,wght@0,100;1,100&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background-image: url(../images/family_law.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main{
+    width: 100%;
+    position: relative;
+    top: 50px;
+}
+main .first-section{
+    width: 90%;
+    margin: auto;
+    position: relative;
+}
+main .first-section > div:nth-child(1){
+    width: 100%;
+    background-color: white;
+    position: relative;
+    margin-bottom: 35px;
+}
+main .first-section > div:nth-child(1) h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+    line-height: 2;
+}
+main .first-section > div:nth-child(1) p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 1.07rem;
+    line-height: 1.7;
+    color: #1a1b1f;
+}
+
+main .first-section > div:nth-child(2){
+    width: 49%;
+    position: relative;
+    float: left;
+}
+main .first-section > div:nth-child(3){
+    width: 49%;
+    height: 40vh;
+    position: relative;
+    float: right;
+    margin-bottom: 50px;
+}
+main .first-section > div:nth-child(3) p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 1.07rem;
+    line-height: 1.9;
+    color: #1a1b1f;
+}
+main .first-section > div:nth-child(4){
+    width: 100%;
+    position: relative;
+    clear: both;
+    top: 50px;
+}
+main .first-section > div:nth-child(4) p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 1.07rem;
+    line-height: 1.7;
+    color: #1a1b1f;
+}
+main .first-section > div:nth-child(5){
+    width: 100%;
+    position: relative;
+    top: 50px;
+}
+main .first-section > div:nth-child(5) h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+    line-height: 2;
+}
+main .first-section > div:nth-child(5) p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 1.07rem;
+    line-height: 1.7;
+    color: #1a1b1f;
+}
+main .first-section > div:nth-child(6){
+    width: 49%;
+    position: relative;
+    float: left;
+    top: 65px;
+}
+main .first-section > div:nth-child(6) p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 1.07rem;
+    line-height: 1.8;
+    color: #1a1b1f;
+}
+span{
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+}
+main .first-section > div:nth-child(7){
+    width: 49%;
+    position: relative;
+    float: right;
+    top: 90px;
+}
+main .first-section > div:nth-child(8){
+    width: 49%;
+    position: relative;
+    clear: both;
+    float: left;
+    top: 90px;
+}
+main .first-section > div:nth-child(9){
+    width: 49%;
+    position: relative;
+    float: right;
+    top: 90px;
+}
+main .first-section > div:nth-child(9) p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 1.07rem;
+    line-height: 1.9;
+    color: #1a1b1f;
+}
+span{
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+}
+main .first-section > div:nth-child(10){
+    width: 100%;
+    background-color: white;
+    position: relative;
+    clear: both;
+    top: 110px;
+}
+main .first-section > div:nth-child(10) p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 1.07rem;
+    line-height: 1.8;
+    color: #1a1b1f;
+}
+main a{
+    width: 90%;
+    margin-left: 5%;
+    padding: 15px 0 50px;
+    position: relative;
+    top: 120px;
+    font-family: Montserrat, sans-serif;
+    color: #1a1b1f;
+    font-size: 1rem;
+    line-height: 1.9;
+    font-weight: 400;
+}
+
